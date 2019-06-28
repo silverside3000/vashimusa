@@ -1,0 +1,49 @@
+#main{
+  width: 90%;
+  margin: auto;
+  background: #f4f4f4;
+}
+#title, #headline{
+  font: normal 32px Arial, Helvatica, Sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+#img-div{
+  background-color: #fff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  padding: 50px;
+}
+#image{
+  margin: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#img-caption{
+  font-family: tahoma;
+  text-align: center;
+}
+#tribute-info{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+#headline{
+  font: normal 21px Arial, Helvatica, Sans-serif;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+li{
+  font: normal 16px tahoma, Arial, Helvatica, Sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+h3{
+  text-align: center;
+  font: normal 18px 800 tahoma, Arial, Helvatica, Sans-serif;
+}
